@@ -5,7 +5,7 @@ transport_allowance=int(input("enter transport allowance : "))
 food_allowance=int(input("enter food allowance : "))
 gross_salary=basic_salary+transport_allowance+food_allowance
 print("============================")
-print("      EMPLOYE PAYSLIP       ")
+print("      EMPLOYEE PAYSLIP       ")
 print("============================")
 print("employee:",employee_name)
 print("basic salary:",basic_salary,"ETB")
